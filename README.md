@@ -16,7 +16,7 @@ Plus précisément :
 - Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti pour l’élaboration de son mémoire
 - Lire et donner des retours sur l'état de l'art d'une disaine de pages (début Juin)
 - Lire et valider le mémoire début septembre.
-- Participer à la [soutenance](https://github.com/Dauphine-MIDO/M1-app/blob/master/M%C3%A9moire.adoc#le-d%C3%A9roulement-de-la-soutenance) du mémoire qui aura lieu début septembre (et donc bien sûr lire le manuscrit avant la soutenance)
+- Participer à la soutenance du mémoire qui aura lieu début septembre (et donc bien sûr lire le manuscrit avant la soutenance)
 
 ## Mémoire
 Nous comptons sur les bonnes volontés des intervenants dans le parcours pour jouer le rôle de président de jury. (Comptez 1 HTD de décharge pour chaque soutenance que vous présidez.)
