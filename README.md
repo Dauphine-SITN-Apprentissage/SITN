@@ -15,8 +15,8 @@ Plus précisément :
 - Envoyer un bref compte-rendu de votre visite en entreprise, à déposer sur Afia Link (à destination de Patricia Lavagna, avec l’apprenti et de son maitre d’apprentissage en copie)
 - Valider la problématique choisie pour le mémoire ; guider et conseiller l'apprenti pour l’élaboration de son mémoire
 - Lire et donner des retours sur l'état de l'art d'une disaine de pages (début Juin)
-- Lire et valider le mémoire début septembre.
-- Participer à la soutenance du mémoire qui aura lieu début septembre (et donc bien sûr lire le manuscrit avant la soutenance)
+- Lire et valider le manuscript début septembre.
+- Participer à la soutenance du mémoire qui aura lieu début septembre.
 
 ## Mémoire
 Nous comptons sur les bonnes volontés des intervenants dans le parcours pour jouer le rôle de président de jury. (Comptez 1 HTD de décharge pour chaque soutenance que vous présidez.)
