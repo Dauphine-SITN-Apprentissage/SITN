@@ -19,5 +19,6 @@ Plus précisément :
 - Participer à la soutenance du mémoire qui aura lieu début septembre.
 
 ## Mémoire
+Les consignes de mémoire seront bientôt disponible. Vous serez informé.
 Nous comptons sur les bonnes volontés des intervenants dans le parcours pour jouer le rôle de président de jury. (Comptez 1 HTD de décharge pour chaque soutenance que vous présidez.)
 
