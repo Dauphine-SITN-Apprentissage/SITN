@@ -2,7 +2,7 @@
 
 La règle à MIDO est d’affecter un tuteur enseignant à chaque étudiant en apprentissage. Généralement, les enseignants intervenant dans la formation suivent des étudiants au prorata de leur nombre d’ECTS dans la formation. Ce suivi, entrant dans le cadre de vos fonctions, est payé en heures équivalent TD (5 HTD visite + 3 HTD encadrement, suivi, cf. [Référentiel](https://intranet.dauphine.fr/fr/ressources-humaines/personnels-enseignants-et-chercheurs/le-service-des-enseignants.html). Chaque apprenti a également un maitre d’apprentissage, une personne de l’entreprise dans laquelle l’apprenti travaille, qui l’encadre sur place.
 
-La liste des apprentis, tuteurs enseignants, maitres d’apprentissage est [ici](https://drive.google.com/open?id=1DxWfdnJTSo_2RfscNsGQ42Q0kNCjkQkZ). Siham informe les étudiants de l’identité de leur tuteur. C’est à l’étudiant de vous contacter concernant la visite en entreprise, le plan du mémoire, …
+La liste des apprentis et tuteurs enseignants est [ici](https://drive.google.com/open?id=1DxWfdnJTSo_2RfscNsGQ42Q0kNCjkQkZ). Siham informe les étudiants de l’identité de leur tuteur. C’est à l’étudiant de vous contacter concernant la visite en entreprise, le plan du mémoire, …
 
 ## Tâches du tuteur
 Votre tâche consiste à aider l’apprenti suivi s’il rencontre une difficulté, s’assurer qu’il est bien accueilli dans son entreprise (y compris en lui rendant visite), discuter et l'aider à trouver une problèmatique pour son mémoire et lire et participer à l’évaluation de son mémoire.
